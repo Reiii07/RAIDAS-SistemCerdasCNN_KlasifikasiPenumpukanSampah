@@ -1,4 +1,5 @@
-tensorflow>=2.16
-numpy
-matplotlib
-ipykernel
+imagehash==4.3.2
+pillow==12.3.0
+tensorflow==2.22.0rc0
+numpy==2.5.3
+matplotlib==3.11.2
